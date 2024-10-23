@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hibirnate/Конспект по Hibernate.md",
+                "file": "TestNG/TestNG.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hibirnate/Конспект по Hibernate.md",
+                "file": "TestNG/TestNG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hibirnate/Конспект по Hibernate.md",
+                "file": "TestNG/TestNG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hibirnate/Конспект по Hibernate.md"
+                "file": "TestNG/TestNG.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b5808f0320274f90",
+  "active": "1fbc7c3ac8203f0c",
   "lastOpenFiles": [
+    "Hibirnate/Конспект по Hibernate.md",
+    "TestNG/TestNG.md",
+    "TestNG",
     "Алгоритмы и структура данных/Конспект по Алгоритмам и структурам данных.md",
-    "Алгоритмы и структура данных",
-    "Без названия"
+    "Алгоритмы и структура данных"
   ]
 }
